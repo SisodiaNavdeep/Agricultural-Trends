@@ -1,0 +1,1 @@
+This tableau project majorly focuses on the states of India and covers the changing patterns and trends in the agriculture field of the country. these changes can be affected by raindfall, pesticides, fertilizers and many more. These changes are seen over a peroid of time(1997-2020).
